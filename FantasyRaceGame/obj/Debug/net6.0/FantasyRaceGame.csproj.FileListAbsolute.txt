@@ -1,0 +1,15 @@
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\FantasyRaceGame.csproj.AssemblyReference.cache
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\FantasyRaceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\FantasyRaceGame.AssemblyInfoInputs.cache
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\FantasyRaceGame.AssemblyInfo.cs
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\FantasyRaceGame.csproj.CoreCompileInputs.cache
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\bin\Debug\net6.0\FantasyRaceGame.exe
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\bin\Debug\net6.0\FantasyRaceGame.deps.json
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\bin\Debug\net6.0\FantasyRaceGame.runtimeconfig.json
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\bin\Debug\net6.0\FantasyRaceGame.dll
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\bin\Debug\net6.0\FantasyRaceGame.pdb
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\FantasyRaceGame.dll
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\refint\FantasyRaceGame.dll
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\FantasyRaceGame.pdb
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\FantasyRaceGame.genruntimeconfig.cache
+C:\Users\lowenbergpettersson\Desktop\FantasyRaceGame\FantasyRaceGame\obj\Debug\net6.0\ref\FantasyRaceGame.dll
