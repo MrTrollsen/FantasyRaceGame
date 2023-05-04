@@ -9,6 +9,7 @@ public class TheGame
     public static List<Animal> animals = new List<Animal>();
     public void GameCreation()
     {
+        //spelaren skriver in hur många djur som ska skapas
         Console.WriteLine("How many animals do you want to spawn?");
         string textNumber = Console.ReadLine();
         int animalAmount;
@@ -38,9 +39,11 @@ public class TheGame
     public void TheRace()
     {
         Random generator = new();
+        //slumpar en av djuren från listan
         int randomAnimal = generator.Next(animals.Count);
         Animal a = animals[randomAnimal];
         
+        //medans det slumpade djurets position är under 20
         while (a.position < 20)
         {
          Console.Clear();

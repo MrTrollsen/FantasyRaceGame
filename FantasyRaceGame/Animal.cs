@@ -9,6 +9,8 @@ public class Animal
     public int energyMax = 4;
     public int energyCurrent = 4;
     public static Random randomiser = new Random();
+
+    //Om djuret har energi så ökar positionen
     public void Move()
     {
         if (energyCurrent > 0)
